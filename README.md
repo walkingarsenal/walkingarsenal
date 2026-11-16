@@ -3,4 +3,4 @@
 </div>
 <p align="center"><img width="770" height="600" alt="image" src="https://i.imgur.com/Kbm2OdC.png" />
 
-<p align="center">$\color{#ba766f}{\textsf{ test }}$ />
+<p align="center">$\color{#ba766f}{\textsf{ test }}$
